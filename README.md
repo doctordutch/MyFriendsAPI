@@ -45,8 +45,7 @@ With Nodemon:
 
 ## Walkthrough
 
-<iframe src="https://drive.google.com/file/d/1VMm6LdFokBYiB23rfdglNhvm2ym9uy7L/preview" width="640" height="480"></iframe>
-
+[here](https://drive.google.com/file/d/1VMm6LdFokBYiB23rfdglNhvm2ym9uy7L)
 
 <p align="center">
     <img src="https://img.shields.io/badge/javascript-yellow" />
